@@ -1,4 +1,4 @@
-Information
+Information / Disclaimer
 ========
 
 Sherlock was written by Rob Pike and Loki. Unfortunately their official website for it went
@@ -6,6 +6,8 @@ offline somewhere in 2018 (http://rp-www.cs.usyd.edu.au/~scilect/sherlock/).
 
 This readme is copied from a snapshot of archive.org.
 (https://web.archive.org/web/20180219024142/http://web.it.usyd.edu.au/~scilect/sherlock/)
+
+This repository of Sherlock is used by our group and should allow others to reproduce our research. It will turned down as soon as the official website is online again.
 
 # The Sherlock Plagiarism Detector
 
