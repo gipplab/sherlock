@@ -7,7 +7,7 @@ offline somewhere in 2018 (http://rp-www.cs.usyd.edu.au/~scilect/sherlock/).
 This readme is copied from a snapshot of archive.org.
 (https://web.archive.org/web/20180219024142/http://web.it.usyd.edu.au/~scilect/sherlock/)
 
-This repository of Sherlock is used by our group and should allow others to reproduce our research. It will turned down as soon as the official website is online again.
+This repository of Sherlock is used by our group and should allow others to reproduce our research. It will be turned down as soon as the official website is online again.
 
 # The Sherlock Plagiarism Detector
 
@@ -144,4 +144,4 @@ You can use the <tt>-z _zerobits_</tt>, <tt>-n _number_of_words_</tt> and <tt>-o
 
 You can use the <tt>-t _threshold%_</tt> option.
 
-Output is the same a the normal Sherlock program.
+Output is the same as the usual Sherlock program.
