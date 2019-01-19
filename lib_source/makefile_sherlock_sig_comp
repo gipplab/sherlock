@@ -1,0 +1,12 @@
+CC = gcc
+CFLAGS = -Wall -ansi -pedantic -O2
+DEBUG = -d
+
+all:	sig comp
+
+sig:	sherlock_sig.c
+	$(CC) $(CFLAGS) -o sherlock_signature sherlock_sig.c
+
+comp:	sherlock_comp.c
+	$(CC) $(CFLAGS) -o sherlock_compare sherlock_comp.c
+
